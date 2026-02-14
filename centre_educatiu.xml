@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Notícies Space Camp Valencia</title>
+        <title>Notícies Educatives de Space Camp Valencia</title>
         <link>https://spacecampvalencia.es/</link>
-        <description>Avís i notícies relacionades amb Space Camp Valencia i els seus esdeveniments.</description>
+        <description>Avís i notícies relacionades amb activitats educatives de Space Camp Valencia.</description>
 
         <atom:link href="https://binaria.systems/IEDIB/Isaac_Rasqui_Barrera/centre_educatiu.xml"
             rel="self"
