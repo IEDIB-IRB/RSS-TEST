@@ -12,7 +12,7 @@
             per Isaac Rasqui
             Barrera</copyright>
 
-        <atom:link href="https://binaria.systems/IEDIB/Isaac_Rasqui_Barrera/centre_educatiu.xml"
+        <atom:link href="https://binaria.systems/IEDIB/Isaac_Rasqui_Barrera/centre_educatiu_v3.xml"
             rel="self"
             type="application/rss+xml" />
 
@@ -26,7 +26,7 @@
             </description>
             <pubDate>Mon, 02 Jun 2025 10:00:00 GMT</pubDate>
             <guid>https://spacecampvalencia.es/evento-valencia-game-city</guid>
-            <author>SCIENCE FANTASY S.L. (Space Camp Valencia)</author>
+            <author>hola@spacecampvalencia.es (Space Camp Valencia)</author>
             <category>Actividades educativas</category>
         </item>
 
@@ -39,7 +39,7 @@
             </description>
             <pubDate>Thu, 29 May 2025 09:00:00 GMT</pubDate>
             <guid>https://spacecampvalencia.es/pluton-upv-hackathon-2025</guid>
-            <author>SCIENCE FANTASY S.L. (Space Camp Valencia)</author>
+            <author>hola@spacecampvalencia.es (Space Camp Valencia)</author>
             <category>Concursos y hackathons</category>
         </item>
 
@@ -52,7 +52,7 @@
             </description>
             <pubDate>Mon, 12 May 2025 09:00:00 GMT</pubDate>
             <guid>https://spacecampvalencia.es/una-experiencia-formativa-de-alto-nivel</guid>
-            <author>SCIENCE FANTASY S.L. (Space Camp Valencia)</author>
+            <author>hola@spacecampvalencia.es (Space Camp Valencia)</author>
             <category>Programas formativos</category>
         </item>
 
@@ -66,7 +66,7 @@
             </description>
             <pubDate>Mon, 12 May 2025 09:00:00 GMT</pubDate>
             <guid>https://spacecampvalencia.es/una-propuesta-educativa-diferente</guid>
-            <author>SCIENCE FANTASY S.L. (Space Camp Valencia)</author>
+            <author>hola@spacecampvalencia.es (Space Camp Valencia)</author>
             <category>Orientación y vocaciones STEM</category>
         </item>
 
