@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Notícies Space Camp Valencia</title>
+        <link>https://spacecampvalencia.es/</link>
+        <description>Avís i notícies relacionades amb Space Camp Valencia i els seus esdeveniments.</description>
+
+        <atom:link href="https://binaria.systems/IEDIB/Isaac_Rasqui_Barrera/centre_educatiu.xml"
+            rel="self"
+            type="application/rss+xml" />
+
+        <item>
+            <title>Space Camp, esdeveniment destacat de Valencia Game City</title>
+            <link>https://spacecampvalencia.es/evento-valencia-game-city</link>
+            <description>
+                La iniciativa Valencia Game City, impulsora de la indústria del videojoc a la
+                ciutat, incorpora Space Camp 2025 com a esdeveniment destacat.
+            </description>
+            <pubDate>Mon, 02 Jun 2025 10:00:00 GMT</pubDate>
+            <guid>https://spacecampvalencia.es/evento-valencia-game-city</guid>
+        </item>
+
+        <item>
+            <title>Pluton UPV Hackathon 2025</title>
+            <link>https://spacecampvalencia.es/pluton-upv-hackathon-2025</link>
+            <description>
+                Space Camp Valencia col·labora amb Pluton UPV en l'Hackathon 2025, fomentant la
+                innovació, la tecnologia i el talent jove en l'àmbit espacial.
+            </description>
+            <pubDate>Thu, 29 May 2025 09:00:00 GMT</pubDate>
+            <guid>https://spacecampvalencia.es/pluton-upv-hackathon-2025</guid>
+        </item>
+
+    </channel>
+</rss>
