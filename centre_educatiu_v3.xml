@@ -12,7 +12,7 @@
             per Isaac Rasqui
             Barrera</copyright>
 
-        <atom:link href="https://binaria.systems/IEDIB/Isaac_Rasqui_Barrera/centre_educatiu_v3.xml"
+        <atom:link href="https://iedib-irb.github.io/RSS-TEST/centre_educatiu_v3.xml"
             rel="self"
             type="application/rss+xml" />
 
@@ -72,3 +72,4 @@
 
     </channel>
 </rss>
+
